@@ -1,6 +1,6 @@
 # 题库 TXT 转 JSON 转换器
 
-将目录中的所有 `.txt` 文件转换为对应格式的 `.json` 文件, 便于作为题库导入https://github.com/serfend/problem-killer
+将目录中的所有 `.txt` 文件转换为对应格式的 `.json` 文件, 便于作为题库导入网页刷题工具https://github.com/serfend/problem-killer
 
 
 ## 功能
